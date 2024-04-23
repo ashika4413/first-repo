@@ -1,1 +1,2 @@
 Hi! This is a text file
+And this is the second update
